@@ -1,5 +1,3 @@
-# SolarSystem
-
 # 🌌 3D Solar System Simulation with Three.js
 
 A realistic, interactive 3D model of the Solar System built using [Three.js](https://threejs.org/). This project simulates planetary orbits, moons, textures, and lighting using WebGL, offering an immersive learning or demonstration tool.
@@ -34,8 +32,5 @@ A realistic, interactive 3D model of the Solar System built using [Three.js](htt
 🧱 Built With
 Three.js
 
-
-
-
-📄 License
-This project is open source and available u
+🏢 Built by
+B Saran
