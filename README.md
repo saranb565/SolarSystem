@@ -22,17 +22,15 @@ A realistic, interactive 3D model of the Solar System built using [Three.js](htt
    git clone https://github.com/saranb565/SolarSystem.git
    cd SolarSystem
 ```
-Install a local web server (optional but recommended for loading textures):
+2. Install the dependencies:
+```
+   npm install
+```
 
-
-2. npm install -g serve
-Run the app locally:
-
-```serve .```
-Open your browser at http://localhost:3000
-
-Or simply open index.html directly in your browser (some textures may not load due to CORS policies).
-
+3. Run the app:
+```
+   npm run dev
+```
 🧱 Built With
 Three.js
 
